@@ -1,5 +1,5 @@
 ---
-permalink: /reading
+permalink: /reading/
 title: "Reading"
 author_profile: true
 redirect_from: 
