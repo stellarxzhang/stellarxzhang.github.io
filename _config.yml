@@ -27,11 +27,11 @@ author:
     avatar: "profile.png"
     name: "Stellar Zhang"
     pronouns: # example: "she/her"
-    bio: "Short biography for the left-hand sidebar"
-    location: "Earth"
-    employer: "Red Brick University"
-    uri: # URL
-    email: "none@example.org"
+    bio: "Enjoys social science, data analysis, hand-knit sweaters, and longform nonfiction."
+    location: "Montreal, QC / Toronto, ON"
+    employer: "McGill University University"
+    uri: "https://www.linkedin.com/in/stellar-zhang/"
+    email: "stellar.zhang@mail.mcgill.ca"
 
     # Academic websites
     academia: # URL
