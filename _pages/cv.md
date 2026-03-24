@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can find my CV here. This was last updated March 2026.
+You can find [my CV here](/files/cv.pdf). This was last updated March 2026.
