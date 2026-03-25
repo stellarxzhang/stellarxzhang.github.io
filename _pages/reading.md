@@ -18,7 +18,10 @@ I am a huge fan of writers Helene Wecker, Patrick Radden Keefe, and Ted Chiang. 
   <h2>{{ entry.year }}</h2>
   <ol>
     {% for book in entry.books %}
-      <li><i>{{ book.title }}</i>, {{ book.author }}</li>
+      <li>
+        <b>{{ book.title }}</b>, <i>{{ book.author }}</i>
+        <p>{{ book.description }} </p>
+      </li>
     {% endfor %}
   </ol>
 {% endfor %}
