@@ -19,7 +19,7 @@ I am a huge fan of writers Helene Wecker, Patrick Radden Keefe, and Ted Chiang. 
   <ol>
     {% for book in entry.books %}
       <li>
-        <b>{{ book.title }}</b>, <i>{{ book.author }}</i>
+        <i>{{ book.title }}</i>, {{ book.author }}
         <p>{{ book.description }} </p>
       </li>
     {% endfor %}
