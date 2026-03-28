@@ -13,7 +13,7 @@ This is a replication paper of Goldstein and You (2017), exploring the dynamics 
 
 Data Visualizations
 ------
-Graphs, charts, and tables covering all sorts of things: Scottish secessionism, AI attitudes, public support for government welfare, trade exposure in the US and Mexico, and more! Click each image to expand.
+Graphs, charts, and tables covering all sorts of things: Scottish secessionism, AI attitudes, public support for government welfare, trade exposure in the US and Mexico, and more! All made with R, primarily in ggplot2. Click each image to expand. 
 
 <div style="display: flex; gap: 15px; flex-wrap: wrap;">
 
