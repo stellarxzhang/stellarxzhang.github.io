@@ -38,6 +38,14 @@ Graphs, charts, and tables covering all sorts of things: Scottish secessionism, 
     <img src="/images/when_sorted_by_value copy.png" style="width: 300px; border-radius: 6px;">
   </a>
 
+  <a href="/images/mex_rca_vulnerability_map copy.jpg" data-lightbox="gallery" data-title="Caption 3">
+    <img src="/images/mex_rca_vulnerability_map copy.jpg" style="width: 300px; border-radius: 6px;">
+  </a>
+
+  <a href="/images/rca_vulnerability_map copy.jpg" data-lightbox="gallery" data-title="Caption 3">
+    <img src="/images/rca_vulnerability_map copy.jpg" style="width: 300px; border-radius: 6px;">
+  </a>
+
   <a href="/images/neg_combined_plot copy.png" data-lightbox="gallery" data-title="Caption 3">
     <img src="/images/neg_combined_plot copy.png" style="width: 300px; border-radius: 6px;">
   </a>
@@ -46,12 +54,5 @@ Graphs, charts, and tables covering all sorts of things: Scottish secessionism, 
     <img src="/images/pos_combined_plot copy.png" style="width: 300px; border-radius: 6px;">
   </a>
 
-  <a href="/images/mex_rca_vulnerability_map copy.jpg" data-lightbox="gallery" data-title="Caption 3">
-    <img src="/images/mex_rca_vulnerability_map copy.jpg" style="width: 300px; border-radius: 6px;">
-  </a>
-
-  <a href="/images/rca_vulnerability_map copy.jpg" data-lightbox="gallery" data-title="Caption 3">
-    <img src="/images/rca_vulnerability_map copy.jpg" style="width: 300px; border-radius: 6px;">
-  </a>
 
 </div>
