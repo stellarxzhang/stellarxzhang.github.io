@@ -12,10 +12,14 @@ An Analysis of Lobbying by Cities ([view](/files/final_paper_618.pdf))
 ------
 This is a replication paper of Goldstein and You (2017), exploring the dynamics of American cities lobbying the federal government. I replicate their original analysis, run robustness tests on the quality of the data and models, and examine an original indicator for the presence of a federal institution. 
 
+Data Visualizations
+------
+Click the images to expand. 
+
 <div style="display: flex; gap: 15px; flex-wrap: wrap;">
 
-  <a href="/images/trustukgovt_predictors copy.jpg" data-lightbox="gallery" data-title="Caption 1">
-    <img src="/images/trustukgovt_predictors copy.jpg" style="width: 300px; border-radius: 6px;">
+  <a href="/images/satisfaction_by_country copy.png" data-lightbox="gallery" data-title="Caption 1">
+    <img src="/images/satisfaction_by_country copy.png" style="width: 300px; border-radius: 6px;">
   </a>
 
   <a href="/images/scot_ind_predictors copy.jpg" data-lightbox="gallery" data-title="Caption 2">
@@ -24,6 +28,22 @@ This is a replication paper of Goldstein and You (2017), exploring the dynamics 
 
   <a href="/images/publicsupport_by_country copy.png" data-lightbox="gallery" data-title="Caption 3">
     <img src="/images/publicsupport_by_country copy.png" style="width: 300px; border-radius: 6px;">
+  </a>
+
+  <a href="/images/trustukgovt_predictors copy.jpg" data-lightbox="gallery" data-title="Caption 3">
+    <img src="/images/trustukgovt_predictors copy.jpg" style="width: 300px; border-radius: 6px;">
+  </a>
+
+  <a href="/images/when_sorted_by_value copy.png" data-lightbox="gallery" data-title="Caption 3">
+    <img src="/images/when_sorted_by_value copy.png" style="width: 300px; border-radius: 6px;">
+  </a>
+
+  <a href="/images/neg_combined_plot copy.png" data-lightbox="gallery" data-title="Caption 3">
+    <img src="/images/neg_combined_plot copy.png" style="width: 300px; border-radius: 6px;">
+  </a>
+
+    <a href="/images/pos_combined_plot copy.png" data-lightbox="gallery" data-title="Caption 3">
+    <img src="/images/pos_combined_plot copy.png" style="width: 300px; border-radius: 6px;">
   </a>
 
 </div>
