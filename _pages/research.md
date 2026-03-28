@@ -22,13 +22,14 @@ Graphs, charts, and tables covering all sorts of things: Scottish secessionism, 
     <img src="/images/satisfaction_by_country copy.png" style="width: 300px; border-radius: 6px;">
   </a>
 
+  <a href="/images/publicsupport_by_country copy.png" data-lightbox="gallery" data-title="Caption 3">
+    <img src="/images/publicsupport_by_country copy.png" style="width: 300px; border-radius: 6px;">
+  </a>
+
   <a href="/images/scot_ind_predictors copy.jpg" data-lightbox="gallery" data-title="Caption 2">
     <img src="/images/scot_ind_predictors copy.jpg" style="width: 300px; border-radius: 6px;">
   </a>
 
-  <a href="/images/publicsupport_by_country copy.png" data-lightbox="gallery" data-title="Caption 3">
-    <img src="/images/publicsupport_by_country copy.png" style="width: 300px; border-radius: 6px;">
-  </a>
 
   <a href="/images/trustukgovt_predictors copy.jpg" data-lightbox="gallery" data-title="Caption 3">
     <img src="/images/trustukgovt_predictors copy.jpg" style="width: 300px; border-radius: 6px;">
