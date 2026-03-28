@@ -14,7 +14,7 @@ This is a replication paper of Goldstein and You (2017), exploring the dynamics 
 
 Data Visualizations
 ------
-Click the images to expand. 
+Graphs, charts, and tables covering all sorts of things: Scottish secessionism, AI attitudes, public support for government welfare, trade exposure in the US and Mexico, and more! Click each image to expand.
 
 <div style="display: flex; gap: 15px; flex-wrap: wrap;">
 
@@ -42,8 +42,16 @@ Click the images to expand.
     <img src="/images/neg_combined_plot copy.png" style="width: 300px; border-radius: 6px;">
   </a>
 
-    <a href="/images/pos_combined_plot copy.png" data-lightbox="gallery" data-title="Caption 3">
+  <a href="/images/pos_combined_plot copy.png" data-lightbox="gallery" data-title="Caption 3">
     <img src="/images/pos_combined_plot copy.png" style="width: 300px; border-radius: 6px;">
+  </a>
+
+  <a href="/images/mex_rca_vulnerability_map copy.jpg" data-lightbox="gallery" data-title="Caption 3">
+    <img src="/images/mex_rca_vulnerability_map copy.jpg" style="width: 300px; border-radius: 6px;">
+  </a>
+
+  <a href="/images/rca_vulnerability_map copy.jpg" data-lightbox="gallery" data-title="Caption 3">
+    <img src="/images/rca_vulnerability_map copy.jpg" style="width: 300px; border-radius: 6px;">
   </a>
 
 </div>
