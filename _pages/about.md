@@ -10,6 +10,6 @@ I am a recent graduate from McGill University in Montreal, originally from Toron
 
 I am interested in using good data to make smart decisions, whether it’s policy research, product analysis, or market research. On this page, you can find examples of my [research work](/research/) in quantitative social science, including work done under Professors [Leonardo Baccini](https://sites.google.com/site/leonardobaccini/) and [Elissa Berwick](https://www.elissaberwick.com/). You can also find [my CV](/cv/) and [compilations of books I've read](/reading/), as well as my thoughts on them. 
 
-Outside of school, I like knitting and documenting my projects with extensive notes (for those inclined, I can be found on [Ravelry](https://www.ravelry.com/people/stellarzhang)). I love cooking, but I loathe baking; I play pickleball well, tennis less so; and I write everything with a fountain pen (my Lamy AL-Star, to be precise).  
+Outside of school, I love cooking, but I loathe baking; I play pickleball well, tennis less so; and I write everything with a fountain pen (my Lamy AL-Star, to be precise).  
 
 Thank you for visiting my site. I can be contacted at [stellar.zhang@mail.mcgill.ca](mailto:stellar.zhang@mail.mcgill.ca). 
