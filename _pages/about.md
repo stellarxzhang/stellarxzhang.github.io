@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a recent graduate from McGill University in Montreal, originally from Toronto. I completed my degree in political science and economics with first-class honours. It involved plenty of reading, writing, and analysis, and I’ve complemented this with work in applied data analysis and quantitative methods across coursework, research assistantships, and internships in the charity sector. 
 
-I am interested in using good data to make smart decisions, whether it’s policy research, product analysis, or market research. On this page, you can find examples of my [research work](/research/) in quantitative social science, including work done under Professors [Leonardo Baccini](https://sites.google.com/site/leonardobaccini/) and [Elissa Berwick](https://www.elissaberwick.com/). You can also find [my CV](/cv/) and [compilations of books I've read](/reading/), as well as my thoughts on them. 
+I am interested in using good data to make smart decisions, whether it’s policy research, product analysis, or market research. On this page, you can find examples of my [research work](/research/) in quantitative social science, including work done under Professors [Leonardo Baccini](https://sites.google.com/site/leonardobaccini/) and [Elissa Berwick](https://www.elissaberwick.com/). You can also find [compilations of books I've read](/reading/), as well as my thoughts on them. 
 
 Outside of school, I love cooking, but I loathe baking; I play pickleball well, tennis less so; and I write everything with a fountain pen (my Lamy AL-Star, to be precise).  
 
